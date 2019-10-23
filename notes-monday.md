@@ -218,7 +218,7 @@ Every items with the same keys will be put in the same partition
 
 Kafka streams : map filter function in JAVA
 
-## debat at the end of the day
+## Debat at the end of the day
 
 Multi cloud :
 AWS : you will limit yourself to the common fonctionnalities

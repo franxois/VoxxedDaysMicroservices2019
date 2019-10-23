@@ -1,0 +1,3 @@
+- [day 1](./notes-monday.md)
+- [day 2](./notes-tuesday.md)
+- [day 3 - workshop istio](./notes-wednesday.md)
